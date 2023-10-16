@@ -1,8 +1,7 @@
 # Web Store
 
-<video width="320" height="240" controls>
-  <source src="./assets/demo_webStore.mp4" type="video/mp4">
-</video>
+
+["DEMO"](./assets/demo_webStore.mp4)
 
 # Session
 

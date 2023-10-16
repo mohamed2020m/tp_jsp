@@ -1,0 +1,15 @@
+com\a00n\service\CommandeService.class
+com\a00n\service\CategorieService.class
+com\a00n\tp3ex2web\JakartaRestConfiguration.class
+com\a00n\utils\HibernateUtil.class
+com\a00n\entities\Commande.class
+com\a00n\controllers\ProduitController.class
+com\a00n\tp3ex2web\resources\JakartaEE10Resource.class
+com\a00n\dao\IDao.class
+com\a00n\service\LigneCommandeProduitService.class
+com\a00n\entities\Produit.class
+com\a00n\entities\LigneCommandeProduitPK.class
+com\a00n\entities\Categorie.class
+com\a00n\entities\LigneCommandeProduit.class
+com\a00n\controllers\CategorieController.class
+com\a00n\service\ProduitService.class
